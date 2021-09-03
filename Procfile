@@ -1,1 +1,1 @@
-web: gunicorn __init__:flask-tutorial
+web: gunicorn __init__:app
